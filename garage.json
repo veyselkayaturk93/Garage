@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Garage 1",
+    "capacity": 10,
+    "availability": 9
+  },
+  {
+    "name": "Garage 2",
+    "capacity": 10,
+    "availability": 9
+  },
+  {
+    "name": "Garage 3",
+    "capacity": 10,
+    "availability": 10
+  }
+]

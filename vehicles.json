@@ -1,0 +1,23 @@
+[
+  {
+    "id": "23ab23",
+    "brand": "sfa",
+    "model": "bfbf",
+    "year": "2013",
+    "garage": "Garage 1"
+  },
+  {
+    "id": "34AB34",
+    "brand": "BMW",
+    "model": "M5",
+    "year": "1990",
+    "garage": "Garage 1"
+  },
+  {
+    "id": "aaaaaaaaaaaaa",
+    "brand": "aaaaaaa",
+    "model": "aaaaaaa",
+    "year": "aaaaaaa",
+    "garage": "Garage 2"
+  }
+]
